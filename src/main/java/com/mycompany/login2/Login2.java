@@ -8,9 +8,5 @@ public class Login2 {
         PantallaLogin panta = new PantallaLogin();
         panta.setVisible(true);
         panta.setLocationRelativeTo(null);
-        
-        System.out.println("Probando esto nuevo");
-        
-        System.out.println("jaja");
     }
 }
