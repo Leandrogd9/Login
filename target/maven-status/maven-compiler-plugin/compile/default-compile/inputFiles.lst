@@ -1,0 +1,15 @@
+D:\NetBeans-17\login2\src\main\java\com\mycompany\login2\Persistencia\exceptions\IllegalOrphanException.java
+D:\NetBeans-17\login2\src\main\java\com\mycompany\login2\Persistencia\exceptions\NonexistentEntityException.java
+D:\NetBeans-17\login2\src\main\java\com\mycompany\login2\Login2.java
+D:\NetBeans-17\login2\src\main\java\com\mycompany\login2\Logica\Usuario.java
+D:\NetBeans-17\login2\src\main\java\com\mycompany\login2\IGU\PantallaUser.java
+D:\NetBeans-17\login2\src\main\java\com\mycompany\login2\Persistencia\ControlPersis.java
+D:\NetBeans-17\login2\src\main\java\com\mycompany\login2\Persistencia\UsuarioJpaController.java
+D:\NetBeans-17\login2\src\main\java\com\mycompany\login2\Logica\Rol.java
+D:\NetBeans-17\login2\src\main\java\com\mycompany\login2\Persistencia\exceptions\PreexistingEntityException.java
+D:\NetBeans-17\login2\src\main\java\com\mycompany\login2\IGU\EditarUsuario.java
+D:\NetBeans-17\login2\src\main\java\com\mycompany\login2\IGU\PantallaLogin.java
+D:\NetBeans-17\login2\src\main\java\com\mycompany\login2\Logica\ControlLogica.java
+D:\NetBeans-17\login2\src\main\java\com\mycompany\login2\IGU\PantallaAdmin.java
+D:\NetBeans-17\login2\src\main\java\com\mycompany\login2\Persistencia\RolJpaController.java
+D:\NetBeans-17\login2\src\main\java\com\mycompany\login2\IGU\CrearUsuario.java
